@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SRender.vcxproj -> C:\Users\tianlan\source\repos\SRender\x64\Debug\SRender.exe

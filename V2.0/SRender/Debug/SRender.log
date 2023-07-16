@@ -1,0 +1,59 @@
+﻿  Canvas.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(149,31): warning C4018: “<”: 有符号/无符号不匹配
+  Image.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(28,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(149,31): warning C4018: “<”: 有符号/无符号不匹配
+  ImageAsset.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  ResourceManager.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  Layer.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(149,31): warning C4018: “<”: 有符号/无符号不匹配
+  RenderSystem.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(149,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\RenderSystem.cpp(95,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\source\repos\SRender\SRender\RenderSystem.cpp(98,21): warning C4018: “<”: 有符号/无符号不匹配
+  SRender.cpp
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(65,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(66,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(67,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\RGBColor.h(68,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\source\repos\SRender\SRender\Layer.h(149,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\GameObject.h(28,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\source\repos\SRender\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  SRender.vcxproj -> C:\Users\tianlan\source\repos\SRender\Debug\SRender.exe
