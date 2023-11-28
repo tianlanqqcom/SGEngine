@@ -1,0 +1,377 @@
+﻿  ActionSequence.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  BaseAnimation.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  Translation.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  Component.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  AnimationController.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  Camera.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Canvas.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Canvas.cpp(27,11): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Canvas.cpp(36,12): warning C4018: “>=”: 有符号/无符号不匹配
+  GlobalSettings.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Image.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+  Light.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  RenderInfo.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  Transform.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  DebugHelper.cpp
+  EngineTime.cpp
+  FaceAsset.cpp
+  GameObject.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.cpp(186,6): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  ImageAsset.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  MaterialAsset.cpp
+  Matrix.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(16,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(19,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(38,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(54,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(65,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(67,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(80,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(90,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(92,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(107,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(109,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(125,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(127,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(143,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(145,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(147,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(189,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(191,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(254,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(256,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(257,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(259,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(261,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(262,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(263,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(264,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(265,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(312,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Matrix.cpp(314,31): warning C4018: “<”: 有符号/无符号不匹配
+  MemoryPool.cpp
+  正在编译...
+  MeshAsset.cpp
+  ModelAsset.cpp
+  ObjLoader.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  ResourceManager.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  Scene.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  SceneManager.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+  StringTools.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  UIBase.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  Vector3.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Vector3.cpp(34,28): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Vector3.cpp(35,28): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Vector3.cpp(36,28): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+  Layer.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+  MathException.cpp
+  PhongShader.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(25,16): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(29,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(42,16): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(46,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(49,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(71,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(72,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(77,16): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(81,31): warning C4244: “参数”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(84,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(132,49): warning C4244: “参数”: 从“_Ty2”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(208,43): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(209,44): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\PhongShader.cpp(210,44): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  RenderSystem.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RenderSystem.cpp(82,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RenderSystem.cpp(85,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RenderSystem.cpp(133,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RenderSystem.cpp(136,21): warning C4018: “<”: 有符号/无符号不匹配
+  RGBColor.cpp
+  Shader.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(72,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(73,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(166,24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(167,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(168,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(169,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(222,30): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(223,30): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(224,30): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(225,30): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,16): warning C4244: “初始化”: 从“double”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(215,42): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<double&,double&,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=double &,
+              _Other2=double &
+          ]
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Shader.cpp(215,21): message : 请参阅 "SRender::Shader::Draw" 中对 "std::pair<int,int>::pair" 的第一个引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4244: “初始化”: 从“double”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=int
+          ]
+  main.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\StringTools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(82,29): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(83,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(84,31): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\RGBColor.h(85,33): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\Layer.h(159,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Component.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Scene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\GameObject.h(30,10): warning C5051: 特性“maybe_unused”至少需要“/std:c++17”；已忽略
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\EngineTools\Components\Light.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lodepng.cpp
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(686,35): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(704,28): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(705,20): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(729,36): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(746,37): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(3999,77): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5062,29): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5331,57): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5336,80): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5337,91): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5338,80): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5339,91): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5340,80): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5341,91): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5342,75): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5537,3): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5561,7): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5595,40): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5612,3): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5634,45): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5665,45): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5778,45): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\tianlan\Desktop\SGEngine\V2.0\SRender\ThirdParty\LodePNG\lodepng.cpp(5892,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2077 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SRender.vcxproj -> C:\Users\tianlan\Desktop\SGEngine\V2.0\x64\Release\SRender.exe
